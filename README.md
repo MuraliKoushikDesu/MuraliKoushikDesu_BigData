@@ -1,4 +1,4 @@
-Hey There, I'm Murali Koushik Desu! 👋
+Hey There, I'm <ins>Murali Koushik Desu!</ins> 👋
 Welcome to my GitHub profile! I'm a passionate and detail-oriented Computer Science undergraduate from the University of Central Missouri with a 3.58 GPA and Cum Laude honors. I specialize in Python, Java, C++, Full-Stack Web Development, Machine Learning, and Data Analysis. I’m actively seeking entry-level opportunities to apply my technical and problem-solving skills to real-world challenges.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 About Me
